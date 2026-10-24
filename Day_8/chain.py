@@ -1,4 +1,3 @@
-```python
 import os
 from pathlib import Path
 from dotenv import load_dotenv
@@ -173,5 +172,5 @@ sleep(2)
 # STEP 3: Compare the candidate's skills against the job requirements.
 score = step3_match(candidate, jd)
 print(score)
-```
+
 
